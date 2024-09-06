@@ -6,9 +6,7 @@ export default function Noticia ({titulo, sub_titulo, conteudo, autor}) {
             <h3>
                 {titulo}
             </h3>
-            <h4>
-                {sub_titulo}
-            </h4>
+          
             <p>
                 {conteudo}
             </p>
